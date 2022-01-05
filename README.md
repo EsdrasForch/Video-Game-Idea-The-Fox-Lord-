@@ -8,7 +8,8 @@ in which you need to escape from. Once you get close enought to the exit, do not
 # A tiny pinch of lore: 🤏🏻
 The Fox Lord is a grim and dark tale about lost souls and dark fantasy. The tiny little fox, is known as the last foxunion soul. The foxunion was a tribe of noble heroes, who fought valiantly in the plains of reality, to preserve the peace of the land. One day, one of the many tribes, received a blessing. They received a soul, as ancient and mysterious as the Green Knight. For a time, this mysterious tribe, used their blessing to gift themselves power and prosperity. But soon, they began to notice the true raw power that came with this soul. It had the power to bend reality, to conquer worlds and to steal power. They planned an attack, thirsty for more power, they sought out the ones who had it all since the beggining and slayed the entirety of the foxunion race. This tribe conquered the world. And they were known, as the wolfcrux. As time goes on, and centuries pass, a new blessing came into this world. A blessing for the honorable. A foxunion soul was created at the edge of time and space. In a dark forest, where the corrupted and dead watch and exist. This is the beggining of a new era. The era of the fox lord.  
 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/63530619/148270092-147800b0-f115-4e6b-8ed8-0e52633e409b.png)
+
 
 # How it works: ✨
 - I created an array to store all of my key-events and then turned them all into static variables so that I am able to use them in every single class that I make. Thanks to these key-events, I am able to move around my scene, jump and fly.
